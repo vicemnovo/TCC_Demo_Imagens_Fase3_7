@@ -4,7 +4,7 @@ Este reposit?rio cont?m um notebook de infer?ncia independente do reposit?rio de
 
 ## Executar de qualquer lugar
 
-Abra demo_fase3_7_colab.ipynb no Google Colab a partir deste GitHub. Execute as c?lulas 1 a 5 na ordem. Para enviar imagens no navegador, execute a c?lula 6. No VS Code ou Jupyter local, coloque JPG, PNG ou WebP em /content/tcc_demo_fase3_7/entrada (Colab) ou .cache_demo/entrada (local) e execute a c?lula 7. CPU funciona, mas GPU ? mais r?pida.
+Abra demo_fase3_7_colab.ipynb no Google Colab a partir deste GitHub. Execute, na ordem, as cinco primeiras c?lulas de c?digo: ambiente, download, arquitetura, infer?ncia e carregamento. Depois execute a c?lula de upload no navegador do Colab ou a c?lula de pasta local no VS Code/Jupyter. Para a pasta local, coloque JPG, PNG ou WebP em /content/tcc_demo_fase3_7/entrada (Colab) ou .cache_demo/entrada (Jupyter local). CPU funciona, mas GPU ? mais r?pida.
 
 A execu??o normal n?o requer Google Drive, conta do grupo ou token. A c?lula 2 baixa o modelo de um Release p?blico e verifica seu SHA-256 antes do carregamento.
 
