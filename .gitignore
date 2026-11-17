@@ -1,0 +1,10 @@
+.cache_demo/
+entrada/
+*.pt
+*.pth
+*.ckpt
+*.part
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.key
