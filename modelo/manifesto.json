@@ -1,0 +1,9 @@
+{
+  "fase": "3.7",
+  "experimento": "fase3_7_cfsmall_expansao_v1",
+  "checkpoint": "fase3_7_cfsmall_expansao_v1_phase3_final.pt",
+  "release_tag": "modelo-fase3-7-v1",
+  "download_url": "https://github.com/vicemnovo/TCC_Demo_Imagens_Fase3_7/releases/download/modelo-fase3-7-v1/fase3_7_cfsmall_expansao_v1_phase3_final.pt",
+  "size_bytes": 40628702,
+  "sha256": "cf3c9305dda7b01d05cef1520437470208b6cb3a8d45a37b4c5bdecd38215062"
+}
